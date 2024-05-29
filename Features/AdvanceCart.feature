@@ -2,8 +2,9 @@
 
 A short summary of the feature
 
-@tag1
-Scenario: [scenario name]
-	Given [context]
-	When [action]
-	Then [outcome]
+@UnitTestAdvanceCart
+Scenario: Nevigate to the login page
+	Given Nevigate to the admin page
+	When Nevigate to Click on the login url
+	Then After login go to admin home
+	
