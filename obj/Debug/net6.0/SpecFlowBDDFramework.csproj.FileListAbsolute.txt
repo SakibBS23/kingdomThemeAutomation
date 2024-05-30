@@ -756,6 +756,12 @@ C:\Users\BS981\OneDrive - Brain Station 23 Ltd\Learning\Selenium - CS\SpecFlowBD
 C:\Users\BS981\OneDrive - Brain Station 23 Ltd\Learning\Selenium - CS\SpecFlowBDDFramework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\BS981\OneDrive - Brain Station 23 Ltd\Learning\Selenium - CS\SpecFlowBDDFramework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\BS981\OneDrive - Brain Station 23 Ltd\Learning\Selenium - CS\SpecFlowBDDFramework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlowBDDFramework.csproj.AssemblyReference.cache
+C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlowBDDFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlowBDDFramework.AssemblyInfoInputs.cache
+C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlowBDDFramework.AssemblyInfo.cs
+C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlowBDDFramework.csproj.CoreCompileInputs.cache
+C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlowBDDFramework.sourcelink.json
 C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\bin\Debug\net6.0\testhost.dll
 C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\bin\Debug\net6.0\LivingDoc.Dtos.dll
 C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
@@ -942,12 +948,6 @@ C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\Sp
 C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlowBDDFramework.csproj.AssemblyReference.cache
-C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlowBDDFramework.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlowBDDFramework.AssemblyInfoInputs.cache
-C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlowBDDFramework.AssemblyInfo.cs
-C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlowBDDFramework.csproj.CoreCompileInputs.cache
-C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlowBDDFramework.sourcelink.json
 C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlow.E8B90376.Up2Date
 C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\SpecFlowBDDFramework.dll
 C:\Users\BS-Test\OneDrive - Brain Station 23 PLC\Desktop\specflowBDDframework\SpecFlowBDDFramework\obj\Debug\net6.0\refint\SpecFlowBDDFramework.dll
