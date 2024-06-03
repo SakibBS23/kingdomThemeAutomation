@@ -1,5 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 using NUnit.Framework;
+using SpecFlowBDDFramework.Model;
 using SpecFlowBDDFramework.Utility;
 using SpecFlowBDDFramework.Utility.DataProvider;
 using SpecFlowBDDFramework.Utility.PropertyReader;
@@ -56,6 +57,23 @@ namespace SpecFlowBDDFramework.Support
 			{
 				Console.WriteLine($"An error occurred: {ex.Message}");
 			}
-		}
+            string jsonFilePathAnnouncement = "TestData\\AnnouncementData.json";
+
+            string _jsonFilePathAnnouncement = Path.Combine(rootPath, jsonFilePathAnnouncement);
+            Console.WriteLine(_jsonFilePathAnnouncement);
+            //excelReader.CreateSheet
+            try
+            {
+                AnnouncementAddItemModel announcementAddItem = JSONFileReader.ReadJsonFile<AnnouncementAddItemModel>(_jsonFilePathAnnouncement);
+                Console.WriteLine($"Name: {announcementAddItem.Name}");
+                Console.WriteLine($"Title: {announcementAddItem.Title}");
+                Console.WriteLine($"Description: {announcementAddItem.Description}");
+				Console.WriteLine($"Display Order: {announcementAddItem.DisplayOrder}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An error occurred: {ex.Message}");
+            }
+        }
 	}
 }
