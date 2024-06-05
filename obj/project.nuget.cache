@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TexzoRHIliQt/3WsnpXgGuuJyr3p8fcXKRRWihXgDbQPwI+0i2SXqkWeOSTkY8qwRtSEvRX+lsTTK8QNgKq3nA==",
+  "dgSpecHash": "xX/AuxxdLc21Z5ewj7TZTf5X+o9JAl8jrKv2d2fFKlyBfaIsW9N3CTEFdULecVUCKzNAchI0TIZKcwwyLpznZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\BS-Test\\OneDrive - Brain Station 23 PLC\\Desktop\\specflowBDDframework\\SpecFlowBDDFramework\\SpecFlowBDDFramework.csproj",
   "expectedPackageFiles": [
@@ -106,6 +106,7 @@
     "C:\\Users\\BS-Test\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\BS-Test\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\BS-Test\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "C:\\Users\\BS-Test\\.nuget\\packages\\selenium.support\\4.21.0\\selenium.support.4.21.0.nupkg.sha512",
     "C:\\Users\\BS-Test\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512",
     "C:\\Users\\BS-Test\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
     "C:\\Users\\BS-Test\\.nuget\\packages\\specflow\\3.9.74\\specflow.3.9.74.nupkg.sha512",
